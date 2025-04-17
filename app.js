@@ -1,1 +1,4 @@
-console.log("Hello World")
+function sayHello() {
+    alert("Hello from JavaScript!");
+  }
+  
